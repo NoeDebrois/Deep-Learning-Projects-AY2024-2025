@@ -1,0 +1,10 @@
+# Ambiente virtuale
+venv/
+
+
+
+# Altri file non necessari
+.DS_Store
+.vscode/
+*.swp
+.ipynb_checkpoints/
