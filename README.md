@@ -13,5 +13,5 @@ This repository hosts the project for the **Artificial Neural Networks and Deep 
 | **Kalana Kalpitha Kalupahana**  | [kalanakalpitha.kalupahana@mail.polimi.it](mailto:kalanakalpitha.kalupahana@mail.polimi.it) | [kala1221](https://github.com/kala1221) |
 | **Noé Debrois**                 | [noe.debrois@mail.polimi.it](mailto:noe.debrois@mail.polimi.it) | [NoeDebrois](https://github.com/NoeDebrois) |
 | **Samuele Caccavelli**               | [samuele.caccavelli@mail.polimi.it](mailto:samuele.caccavelli@mail.polimi.it) | [Samuele-Caccavelli](https://github.com/Samuele-Caccavelli) |
-| **Member 4 Name**               | [member4.email@mail.polimi.it](mailto:member4.email@mail.polimi.it) | [member4github](https://github.com/member4github) |
+| **Anan Wang**               | [anan.wang@mail.polimi.it](mailto:member4.email@mail.polimi.it) | [member4github]([https://github.com/member4github](https://github.com/Zanarkands)) |
 
