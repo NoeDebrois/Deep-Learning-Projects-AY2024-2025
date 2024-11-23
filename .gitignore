@@ -1,9 +1,9 @@
-# Ambiente virtuale
+#virtual environment
 venv/
 
 
 
-# Altri file non necessari
+#Unnecessary files
 .DS_Store
 .vscode/
 *.swp
